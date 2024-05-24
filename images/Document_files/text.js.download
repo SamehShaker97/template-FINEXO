@@ -1,0 +1,34 @@
+var grade = 40
+
+if (grade > 95) {
+
+    console.log('A+')
+}
+else if (grade > 30) {
+
+    console.log('B+')
+}
+else {
+    console.log('try harder next time')
+}
+ var major = 'html'
+
+ if (major == 'html' || major == 'css' || major == ' JS') {
+
+    console.log('u accept her')
+ }
+
+ var number = prompt('please enter your number') 
+ 
+ if (number > 0) {
+
+    console.log('the number is positeve')
+ }
+ else if (number < 0 ) {
+
+    console.log('the number is nagtie')
+ }
+ else {
+    console.log('the number is 0')
+ }
+
